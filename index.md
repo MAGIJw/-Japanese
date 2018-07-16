@@ -207,7 +207,7 @@ html {
 }
 .vertical-menu {
     width: 200px;
-    vertical-align: middle;
+    align-items:center;
 }
 
 .vertical-menu a {
