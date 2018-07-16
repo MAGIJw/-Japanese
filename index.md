@@ -207,7 +207,6 @@ html {
 }
 .vertical-menu {
     width: 200px;
-    align-items:center;
 }
 
 .vertical-menu a {
@@ -229,11 +228,12 @@ html {
 </style>
 </head>
 <body>
+ <div style="text-align:center;">
 <h1>日本語</h1>
-
 <div class="vertical-menu">
   <a href="#">傳說中的五十音</a>
   <a href="#">初級單字 & 文法</a>
   <a href="#">中級單字 & 文法</a>
   <a href="#">高級單字 & 文法</a>
+</div>
 </div>
