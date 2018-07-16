@@ -228,7 +228,7 @@ html {
 </style>
 </head>
 <body>
- <div style="text-align:center;">
+ <div style="margin:0px auto;">
 <h1>日本語</h1>
 <div class="vertical-menu">
   <a href="#">傳說中的五十音</a>
