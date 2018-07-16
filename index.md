@@ -231,7 +231,6 @@ html {
 <h1>日本語</h1>
 
 <div class="vertical-menu">
-  <a href="#" class="active">Japanese</a>
   <a href="#">字母 & 發音</a>
   <a href="#">初級單字 & 文法</a>
   <a href="#">中級單字 & 文法</a>
