@@ -230,7 +230,7 @@ html {
 <body>
 <h1>日本語</h1>
 <div class="vertical-menu">
-  <a href="#">五十音</a>
+  <a href="https://magijw.github.io/fifty/">五十音</a>
   <a href="#">初級單字 & 文法</a>
   <a href="#">中級單字 & 文法</a>
   <a href="#">高級單字 & 文法</a>
